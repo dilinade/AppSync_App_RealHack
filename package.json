@@ -43,7 +43,7 @@
     "cuint": "^0.2.2",
     "graphql": "^0.11.7",
     "graphql-tag": "^2.5.0",
-    "https-proxy-agent": "^2.2.1",
+    "https-proxy-agent": "^2.2.3",
     "immutability-helper": "2.6.0",
     "lodash": "^4.17.4",
     "minimatch": "^3.0.4",
